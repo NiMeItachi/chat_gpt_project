@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+![GPT Project]{https://github.com/NiMeItachi/chat_gpt_project/blob/master/gpt_git/screens.png}
 
 This project is a starting point for a Flutter application.
 
